@@ -24,6 +24,6 @@ This repository contains a complete Python implementation of the **Black Widow O
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/BWO-MOBWO-Python-Optimization.git
-cd BWO-MOBWO-Python-Optimization
+git clone https://github.com/yourusername/Black-Widow-Optimization-Python.git
+cd Black-Widow-Optimization-Python
 pip install numpy matplotlib
